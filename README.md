@@ -1,6 +1,6 @@
 ## Iván Gálvez
 
-Estudiante de la carrera Técnico en Desarrollo de Software por el Instituto Politécnico Nacional.
+<span style="color: #63E8A4">Estudiante de la carrera Técnico en Desarrollo de Software por el Instituto Politécnico Nacional.</span>
 
 Desarrollador autodidacta y entusiasta de la innovación tecnológica.
 
