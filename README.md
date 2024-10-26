@@ -1,9 +1,10 @@
 ## Iván Gálvez
 
-<span style="color: #63E8A4">Estudiante de la carrera Técnico en Desarrollo de Software por el Instituto Politécnico Nacional.</span>
+Estudiante de la carrera Técnico en Desarrollo de Software por el Instituto Politécnico Nacional.
 
 Desarrollador autodidacta y entusiasta de la innovación tecnológica.
 
+# <span style="color: red">UNDER CONSTRUCTION</span>
 # Otro
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/igalvezr/igalvezr/blob/main/asssets/get-greeting-get-greetings.gif" width="29px">,I am 
