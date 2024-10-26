@@ -6,7 +6,7 @@ Desarrollador autodidacta y entusiasta de la innovación tecnológica.
 
 # <span style="color: red">UNDER CONSTRUCTION</span>
 
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/igalvezr/igalvezr/blob/main/asssets/get-greeting-get-greetings.gif" width="29px">,I am 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/igalvezr/igalvezr/blob/main/asssets/waving-hand-joypixels.gif" width="29px">,I am 
 ![1](https://github.com/igalvezr/igalvezr/blob/main/asssets/header-banner.gif)
 
 <div align="center">
