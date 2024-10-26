@@ -12,8 +12,13 @@ Desarrollador autodidacta y entusiasta de la innovación tecnológica.
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ivan%20Galvez-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/igalvezr/)](https://www.linkedin.com/in/igalvezr/) [![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VedantKhairnar3)](https://twitter.com/VedantKhairnar3) [![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/kingsmanvk/)](https://www.instagram.com/kingsmanvk/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/VedantKhairnar)
+[![Linkedin Badge](https://img.shields.io/badge/-Ivan%20Galvez-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/igalvezr/)](https://www.linkedin.com/in/igalvezr/) [![GitHub followers](https://img.shields.io/github/followers/igalvezr?style=social
+)](https://github.com/igalvezr?tab=followers)[![Instagram Badge](https://img.shields.io/badge/@igalvezr-18?style=social&logo=instagram&labelColor=%233172CE&color=%234A4E53)](https://www.instagram.com/igalvezr18/)
+
+
+
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/VedantKhairnar)
  [![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://vedantkhairnar.ml/)
 
  </div>
