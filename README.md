@@ -1,4 +1,4 @@
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/igalvezr/igalvezr/blob/main/asssets/waving-hand-joypixels.gif" width="29px">,I am 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/igalvezr/igalvezr/blob/main/asssets/waving-hand-joypixels.gif" width="29px">, yo soy 
 ![1](https://github.com/igalvezr/igalvezr/blob/main/asssets/header-banner.gif)
 
 <div align="center">
