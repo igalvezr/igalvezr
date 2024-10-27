@@ -18,7 +18,7 @@ Desarrollador autodidacta y entusiasta de la innovación tecnológica.
 
  </div>
 
-![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
+![about](https://github.com/igalvezr/igalvezr/blob/main/asssets/about.png)
 
 
 <!--
