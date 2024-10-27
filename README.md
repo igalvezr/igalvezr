@@ -12,7 +12,7 @@ Soy estudiante de la carrera **Técnico en Desarrollo de Software** por el _Inst
 
  </div>
 
-![about](https://github.com/igalvezr/igalvezr/blob/main/asssets/about.png)
+![about](https://github.com/igalvezr/igalvezr/blob/main/asssets/about_2.png)
 
 ## Las tecnologías que conozco 👨‍💻
 <div align="center">
